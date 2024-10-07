@@ -8,3 +8,5 @@ Set of recipes as given by grandma.
 
 - [pasta](./pasta.md)
 - [Pizza](./pizza.md)
+- [Pizza](./pizza.md)
+- [Pasta](./pasta.md)
