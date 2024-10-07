@@ -7,3 +7,4 @@ Set of recipes as given by grandma.
 - spreads (TODO)
 
 - [Pizza](./pizza.md)
+- [Pasta](./pasta.md)
